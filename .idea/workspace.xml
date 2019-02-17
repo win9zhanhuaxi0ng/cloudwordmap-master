@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ad228fd-94a5-4f1b-b283-3f4f3f8632f8" name="Default Changelist" comment="" />
+    <list default="true" id="5ad228fd-94a5-4f1b-b283-3f4f3f8632f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/1.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,16 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TextCloud.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TextCloud.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TextCloud.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+            <state relative-caret-position="591">
+              <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="MyWordCloud.js" pinned="false" current-in-tab="false">
@@ -138,7 +145,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -190,13 +197,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="cloudwordmap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudwordmap" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudwordmap-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudwordmap-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="cloudwordmap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloudwordmap" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cloudwordmap-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloudwordmap-master" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,12 +296,12 @@
       <updated>1550267520867</updated>
       <workItem from="1550267524952" duration="56407000" />
       <workItem from="1550366092598" duration="2268000" />
-      <workItem from="1550382993502" duration="236000" />
+      <workItem from="1550382993502" duration="480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58911000" />
+    <option name="totallyTimeSpent" value="59155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -306,19 +313,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1180" height="1417" extended-state="0" />
+    <frame x="172" y="23" width="1180" height="1417" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="1" sideWeight="0.50087875" side_tool="true" visible="true" weight="0.32845026" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50175744" side_tool="true" visible="true" weight="0.32845026" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.33142856" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.3286119" />
       <window_info id="npm" order="4" sideWeight="0.5074627" side_tool="true" visible="true" weight="0.20386644" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49912128" visible="true" weight="0.32845026" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49824253" visible="true" weight="0.32845026" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49253732" visible="true" weight="0.20386644" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49253732" visible="true" weight="0.20386644" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -514,15 +522,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/l.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TextCloud.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        <state relative-caret-position="591">
+          <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
