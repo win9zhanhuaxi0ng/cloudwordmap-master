@@ -1,0 +1,43 @@
+{
+  "name": "cloudwordmap",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://linzengxian.github.io/cloudwordmap",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
+    "google-map-react": "^1.1.2",
+    "google-maps-react": "^2.0.2",
+    "history": "^4.7.2",
+    "holderjs": "^2.9.6",
+    "react": "^16.8.2",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.2",
+    "react-geocode": "^0.1.2",
+    "react-google-autocomplete": "^1.0.18",
+    "react-google-maps": "^9.4.5",
+    "react-resize-aware": "^2.7.2",
+    "react-router": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "react-wordcloud": "git+https://github.com/chrisrzhou/react-wordcloud.git",
+    "recompose": "^0.30.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
